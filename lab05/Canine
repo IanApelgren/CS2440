@@ -1,0 +1,11 @@
+class Canine extends Animal
+{
+    public Canine(Zoo myZoo, String name)
+    {
+
+    }
+    public void roam()
+    {
+    
+    }
+}

@@ -1,0 +1,19 @@
+class WildDog extends Canine
+{
+    public WildDog(Zoo myZoo, String name)
+    {
+        
+    }
+    
+    public makeNoise()
+    {
+
+    }
+
+    public void eat()
+    {
+
+    }
+
+
+}
